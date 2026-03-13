@@ -1,4 +1,3 @@
-# AGENTS.md
 
 ## Testing Requirements
 All changes must pass `python test_environment.py` before committing.
