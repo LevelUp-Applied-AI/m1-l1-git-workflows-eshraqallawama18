@@ -43,7 +43,7 @@ python test_environment.py    # should print "Environment OK"
 # Hospital Admission Records Analysis
 
 ## Team Members
-Eshraq Allawama as Tame leader 
+Eshraq Allawama as Team leader 
 
 ## Project Overview
 This project analyzes hospital admission records to identify trends
@@ -60,8 +60,8 @@ data/raw/admissions.csv
 
 Clone the repository:
 
-git clone <repo-url>
-cd <repo-name>
+git clone <https://github.com/LevelUp-Applied-AI/m1-l1-git-workflows-eshraqallawama18.git>
+cd <m1-l1-git-workflows-eshraqallawama18>
 
 Create virtual environment:
 
